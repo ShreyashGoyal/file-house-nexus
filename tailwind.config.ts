@@ -61,6 +61,42 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				'legal-litigation': {
+					DEFAULT: 'hsl(var(--legal-litigation))',
+					foreground: 'hsl(var(--legal-litigation-foreground))'
+				},
+				'land-property': {
+					DEFAULT: 'hsl(var(--land-property))',
+					foreground: 'hsl(var(--land-property-foreground))'
+				},
+				'accounting-tax': {
+					DEFAULT: 'hsl(var(--accounting-tax))',
+					foreground: 'hsl(var(--accounting-tax-foreground))'
+				},
+				'vendor-contracts': {
+					DEFAULT: 'hsl(var(--vendor-contracts))',
+					foreground: 'hsl(var(--vendor-contracts-foreground))'
+				},
+				'technical-construction': {
+					DEFAULT: 'hsl(var(--technical-construction))',
+					foreground: 'hsl(var(--technical-construction-foreground))'
+				},
+				'compliance': {
+					DEFAULT: 'hsl(var(--compliance))',
+					foreground: 'hsl(var(--compliance-foreground))'
+				},
+				'status-pending': {
+					DEFAULT: 'hsl(var(--status-pending))',
+					foreground: 'hsl(var(--status-pending-foreground))'
+				},
+				'status-approved': {
+					DEFAULT: 'hsl(var(--status-approved))',
+					foreground: 'hsl(var(--status-approved-foreground))'
+				},
+				'status-draft': {
+					DEFAULT: 'hsl(var(--status-draft))',
+					foreground: 'hsl(var(--status-draft-foreground))'
 				}
 			},
 			borderRadius: {
